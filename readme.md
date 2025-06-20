@@ -2,7 +2,7 @@
 
 Este es un sistema de gestión para un videoclub, diseñado como proyecto de clase.
 
-## Comenzando 🚀
+## Comenzando 
 
 Estas instrucciones te permitirán obtener una copia del proyecto en funcionamiento en tu máquina local para propósitos de desarrollo y pruebas del proyecto.
 
@@ -11,6 +11,12 @@ Estas instrucciones te permitirán obtener una copia del proyecto en funcionamie
 - Git
 - Python 3.11
 - Visual Studio Code
+
+## Funcionalidades
+
+- Registro y gestión de películas
+- Control de préstamos y devoluciones
+- Administración de usuarios
 
 ### Instalación 
 
